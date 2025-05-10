@@ -1,0 +1,15 @@
+{
+  "name": "saya-beliteh",
+  "version": "1.1.0",
+  "description": "CLI tool to set up Drosera Network operator on a VPS",
+  "main": "bin/drosera-node-setup.js",
+  "bin": {
+    "drosera-node-setup": "bin/drosera-node-setup.js"
+  },
+  "author": "your_name",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "inquirer": "^9.3.7"
+  }
+}
